@@ -9,3 +9,15 @@ Site institucional de página única da Inácio Construtora (Içara/SC), seguind
 - Projetos usam desenhos técnicos em SVG; para usar fotos reais, veja o comentário na seção `#projetos`.
 
 Para publicar: envie o `index.html` para qualquer hospedagem estática (GitHub Pages, Netlify, Vercel, Hostinger).
+
+## Prévia
+
+| Abertura | Logo completo |
+|---|---|
+| ![Abertura](preview/1-abertura.jpg) | ![Logo](preview/2-abertura-logo.jpg) |
+
+![Topo do site](preview/3-topo.jpg)
+
+<img src="preview/5-celular.jpg" width="260" alt="Versão celular">
+
+[Página inteira (computador)](preview/4-pagina-desktop.jpg)
